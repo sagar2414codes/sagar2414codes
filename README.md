@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C, C++, Python, JavaScript,**
 
-- 💬 Ask me about **Linux**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **sagar1509sharma@gmail.com**
 
